@@ -1,0 +1,6 @@
+target/
+*.class
+*.jar
+*.log
+node_modules/
+apache-maven*
