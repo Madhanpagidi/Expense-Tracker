@@ -1,18 +1,22 @@
 # Expense Tracker
 
-Expense Tracker is a web application that helps users manage their income and expenses.
+Expense Tracker is a web application that helps users manage their daily income and expenses.
 
-Technologies Used:
+## Technologies Used
 - Java
 - Spring Boot
 - Hibernate
 - PostgreSQL
-- HTML, CSS, JavaScript
+- HTML
+- CSS
+- JavaScript
 
-Features:
+## Features
 - User registration and login
-- Add income and expenses
+- Add and manage expenses
+- Add income records
 - Categorize transactions
 - View transaction history
 
-This project demonstrates backend development using Spring Boot and database integration.
+## Project Description
+This project demonstrates backend development using Spring Boot and database integration. It allows users to track financial transactions efficiently through a simple web interface.
