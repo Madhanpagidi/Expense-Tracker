@@ -1,6 +1,7 @@
 target/
 *.class
-*.jar
 *.log
-node_modules/
+*.jar
 apache-maven*
+node_modules/
+.DS_Store
