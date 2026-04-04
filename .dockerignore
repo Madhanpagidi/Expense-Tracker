@@ -1,0 +1,15 @@
+target/
+.git/
+.mvn/
+mvnw
+mvnw.cmd
+.vscode/
+.gitignore
+Dockerfile
+.dockerignore
+node_modules/
+.env.
+*.log
+*.tar
+*.zip
+*.md
