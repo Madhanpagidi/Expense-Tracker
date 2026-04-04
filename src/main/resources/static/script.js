@@ -1,4 +1,4 @@
-const API_BASE_URL = 'http://localhost:8080/api';
+const API_BASE_URL = 'https://expense-tracker-bkur.onrender.com/api';
 
 document.addEventListener('DOMContentLoaded', () => {
     // 0. Set Current Date in Header
