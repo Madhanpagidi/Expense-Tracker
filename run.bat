@@ -5,7 +5,8 @@ cd /d "%PROJECT_DIR%"
 
 echo ==========================================
 echo       Starting Expense Tracker
-echo       URL: http://localhost:8080
+
+echo http://localhost:8080
 echo ==========================================
 echo Working Directory: %CD%
 
